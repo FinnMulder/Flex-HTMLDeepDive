@@ -71,7 +71,7 @@ body{
 }
 
 #radio2:checked ~ .first{
-    margin-left: -20%%;
+    margin-left: -20%;
 
 }
 
